@@ -177,9 +177,9 @@
 						<li class="dropdown profile_details_drop">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
 								<div class="profile_img">	
-									<span class="prfil-img"><img src="{{ asset('public/admin/backend/images') }}/1.jpg" alt=""> </span> 
+									<span class="prfil-img"><img src="{{ asset('public/admin/backend/images') }}/superadmin.png" alt="" width="45" height="45"> </span> 
 									<div class="user-name">
-										<p>Admin Name</p>
+										<p>Super Admin</p>
 										<span>Administrator</span>
 									</div>
 									<i class="fa fa-angle-down lnr"></i>

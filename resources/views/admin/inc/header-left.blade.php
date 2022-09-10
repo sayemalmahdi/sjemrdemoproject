@@ -9,7 +9,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             </button>
-            <h1><a class="navbar-brand" href="index.html"><span class="fa fa-area-chart"></span> Glance<span class="dashboard_text">Newsportal dashboard</span></a></h1>
+            <h1><a class="navbar-brand" href="index.html">
+                <span class="dashboard_text"></span> EMR<span class="dashboard_text">SJ EMR dashboard</span></a></h1>
           </div>
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="sidebar-menu">
@@ -21,16 +22,19 @@
               </li>
 			  <li class="treeview">
                 <a href="#">
-                <i class="fa fa-laptop"></i>
-                <span>Components</span>
+                <i class="fa fa-user"></i>
+                <span>Admins</span>
                 <i class="fa fa-angle-left pull-right"></i>
                 </a>
                 <ul class="treeview-menu">
-                  <li><a href="grids.html"><i class="fa fa-angle-right"></i> Grids</a></li>
-                  <li><a href="media.html"><i class="fa fa-angle-right"></i> Media Css</a></li>
+                  <li><a href="grids.html"><i class="fa fa-angle-right"></i> Add Admin</a></li>
+                  <li><a href="media.html"><i class="fa fa-angle-right"></i> List Admins</a></li>
                 </ul>
               </li>
-              <li class="treeview">
+
+
+              
+              <!-- <li class="treeview">
                 <a href="charts.html">
                 <i class="fa fa-pie-chart"></i>
                 <span>Charts</span>
@@ -101,7 +105,7 @@
               <li class="header">LABELS</li>
               <li><a href="#"><i class="fa fa-angle-right text-red"></i> <span>Important</span></a></li>
               <li><a href="#"><i class="fa fa-angle-right text-yellow"></i> <span>Warning</span></a></li>
-              <li><a href="#"><i class="fa fa-angle-right text-aqua"></i> <span>Information</span></a></li>
+              <li><a href="#"><i class="fa fa-angle-right text-aqua"></i> <span>Information</span></a></li> -->
             </ul>
           </div>
           <!-- /.navbar-collapse -->

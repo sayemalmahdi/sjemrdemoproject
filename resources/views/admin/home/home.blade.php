@@ -6,16 +6,28 @@
 <div id="page-wrapper">
 			<div class="main-page">
 			<div class="col_3">
+        <div class="col-md-3 widget">
+            <div class="r3_counter_box">
+                    <i class="pull-left fa fa-user-md dollar2 icon-rounded"></i>
+                    <div class="stats">
+                      <h5><strong>1450</strong></h5>
+                      <span>Total Doctor</span>
+                    </div>
+                </div>
+           </div>
         	<div class="col-md-3 widget widget1">
         		<div class="r3_counter_box">
-                    <i class="pull-left fa fa-dollar icon-rounded"></i>
+                    <!-- <i class="pull-left fa fa-dollar icon-rounded"></i> -->
+                    <i class="pull-left fa fa-users icon-rounded"></i>
                     <div class="stats">
                       <h5><strong>$452</strong></h5>
-                      <span>Total Revenue</span>
+                      <span>Total Patient</span>
                     </div>
                 </div>
         	</div>
-        	<div class="col-md-3 widget widget1">
+
+
+        	<!-- <div class="col-md-3 widget widget1">
         		<div class="r3_counter_box">
                     <i class="pull-left fa fa-laptop user1 icon-rounded"></i>
                     <div class="stats">
@@ -32,25 +44,33 @@
                       <span>Expenses</span>
                     </div>
                 </div>
-        	</div>
+        	</div> -->
+
+
         	<div class="col-md-3 widget widget1">
         		<div class="r3_counter_box">
                     <i class="pull-left fa fa-pie-chart dollar1 icon-rounded"></i>
                     <div class="stats">
-                      <h5><strong>$450</strong></h5>
-                      <span>Expenditure</span>
+                      <h5><strong>450</strong></h5>
+                      <span>Total Apt.</span>
                     </div>
                 </div>
         	 </div>
-        	<div class="col-md-3 widget">
-        		<div class="r3_counter_box">
-                    <i class="pull-left fa fa-users dollar2 icon-rounded"></i>
+
+           <div class="col-md-3 widget widget1">
+            <div class="r3_counter_box">
+                    <i class="pull-left fa fa-pie-chart dollar2 icon-rounded"></i>
                     <div class="stats">
-                      <h5><strong>1450</strong></h5>
-                      <span>Total Users</span>
+                      <h5><strong>10</strong></h5>
+                      <span>Todays Apt.</span>
                     </div>
                 </div>
-        	 </div>
+           </div>
+
+
+
+
+        	
         	<div class="clearfix"> </div>
 		</div>
     
